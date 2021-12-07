@@ -11,9 +11,10 @@ Hey recruiters! Currently I am working on this project. This project is in progr
 
 **Link to sketch files I drew for this project.** 
 
-Homepage -> [Homepage](https://lun-eu.icons8.com/p/dgBuAJks90Ob9bCD3gQd7Q/FstHZ01AuE--A9LKs1RMeA/index.html)
+Homepage -> [Homepage]()
+Post page -> [Postpage](https://lun-eu.icons8.com/p/dgBuAJks90Ob9bCD3gQd7Q/FstHZ01AuE--A9LKs1RMeA/index.html)
 Auth page -> [Authpage](https://lun-eu.icons8.com/p/dgBuAJks90Ob9bCD3gQd7Q/8qPhCmgz5kSCy6S3ak_-qQ/index.html)
-Post page -> [Postpage]
+
 
 **These are screenshots how much project is done.** 
 
